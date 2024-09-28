@@ -1,1 +1,1 @@
-kkklllllllj njjjjkjjjkjjhj
+kkklllllll print(hello world)
